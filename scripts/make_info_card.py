@@ -59,9 +59,10 @@ ROWS = [
     ("kv", "Native", "ExoPlayer, react-native-tts, RN-FS"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Built Vidya V3 milestone screens from scratch"),
-    ("bul", "Shipped LessonPlayerScreen: video, MCQ, TTS"),
-    ("bul", "Personal project: Skill2Career.AI"),
+    ("bul", "Integrated WebSockets, syncing real-time events with frontend"),
+    ("bul", "Built real-time AI conversation flow with Gemini"),
+    ("bul", "Integrated native modules -- camera for self-vision image gen"),
+    ("bul", "Built video player for course lesson playback"),
 ]
 
 
